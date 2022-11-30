@@ -4,7 +4,7 @@ Pasos para ejecutar el proyecto
 
 1. Clonar repositorio
 2. Ejecuta `npm install` para reconstruir modulos de node
-3. Correr el devSever `npm run dev`
+3. Correr el devSever `npm run dev`w
 
 ## Produccion
 
